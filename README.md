@@ -4,7 +4,7 @@
 
 This project is a part of the Tasks issued to me by ParallelScore.
 
-#### -- Project Status: <img src="https://img.shields.io/badge/Completed-44D62D?style=for-the-badge&logo=razer&logoColor=252525">
+#### -- Project Status: <img src="https://img.shields.io/badge/Completed-44D62D?style=for-the-badge&logoColor=252525">
 
 ## Project Intro/Objective
 The objective of this study is to optimally cluster the customer data to get a clear view of various customers, develop customized marketing campaigns, choose specific product features for deployment and Prioritize new product development efforts.
