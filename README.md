@@ -1,6 +1,6 @@
 # Customer Segmentation/RMF Analysis
 
-![](images.png)
+![](RMF-Analytics.jpg)
 
 This project is a part of the Tasks issued to me by ParallelScore.
 
@@ -57,5 +57,5 @@ Who They Are: Customer who have average metrics across each RFM scores
 4.	Lost - The customers with low recency, frequency and monetary value
 
 The above-generated RFM customer segments can be easily used to identify high ROI segments and engage them with personalized offers.
-
+![](Incontent_image.png)
 
