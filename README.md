@@ -1,6 +1,6 @@
 # Customer Segmentation/RMF Analysis
 
-![](RMF-Analytics.jpg)
+![](r.jpg)
 
 This project is a part of the Tasks issued to me by ParallelScore.
 
