@@ -18,7 +18,7 @@ After proper cleaning of our data to remove 543 null rows and 2 duplicate rows w
 3.	Seaborn and Matplotlib for visualization and insights
 4.	Sklearn for Machine Learning and preprocessing  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 5.	Python 3.7 Environment <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-6.	Jupyter and Microsoft Excel as tools <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+6.	Jupyter and Microsoft Excel as tools <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" >
 
 
 
